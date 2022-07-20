@@ -6,18 +6,16 @@ Celem zadania jest stworzenie aplikacji webowej używając [React](https://react
 
 ### Struktura aplikacji
 
-- Formularz w którym można zdefiniować: miasto (domyślnie Gdańsk), walutę (domyślnie Euro) oraz typ wykresu (informacje poniżej). 
+- Formularz w którym można zdefiniować: walutę/y (domyślnie Euro) oraz typ wykresu (informacje poniżej). 
 - Miejsce w którym będzie wyświetlał wykres
 
 ### Typy wykresów
 
-- wykres liniowy na którym prezentowany jest tygodniowy rozkład temperatury z ostatnich 7 dni
 - wykres liniowy na którym prezentowany jest dzienny kurs średni zdefiniowanej waluty z ostatnich 7 dni
-- wykres liniowy na którym prezentowana jest temperatura oraz dzienny kurs średni zdefiniowanej waluty z ostatnich 7 dni
+- wykres liniowy na którym prezentowana są dzienne kury średnie zdefiniowanych walut z ostatnich 7 dni
 
 ### Źródła danych
 
-- Źródło danych pogodowych https://openweathermap.org/history
 - Źródło danych kursów walut http://api.nbp.pl/
 - API rysujące wykresy https://documentation.image-charts.com/line-charts/
 
